@@ -1,2 +1,2 @@
 # alura-curso
-exercicios aluira
+exercicios alura
